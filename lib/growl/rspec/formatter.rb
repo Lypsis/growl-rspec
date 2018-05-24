@@ -1,3 +1,4 @@
+require 'growl'
 require 'rspec/core/formatters'
 
 module Growl
